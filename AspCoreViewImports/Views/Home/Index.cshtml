@@ -1,0 +1,17 @@
+﻿@model List<AspCoreViewImports.Models.Student>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@{
+    foreach (var item in Model)
+    {
+        <p>@item.id</p>
+        <p>@item.Name</p>
+        <p>@item.Gender</p>
+        
+    }
+}
+

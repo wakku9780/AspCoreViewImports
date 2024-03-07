@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspCoreViewImports", "AspCoreViewImports\AspCoreViewImports.csproj", "{9232F230-21A7-4C63-B04F-0B8360119F7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9232F230-21A7-4C63-B04F-0B8360119F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9232F230-21A7-4C63-B04F-0B8360119F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9232F230-21A7-4C63-B04F-0B8360119F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9232F230-21A7-4C63-B04F-0B8360119F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8938F4B1-48D8-48E6-A63E-AC8D8BB4F85F}
+	EndGlobalSection
+EndGlobal

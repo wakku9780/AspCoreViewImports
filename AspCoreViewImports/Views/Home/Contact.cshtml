@@ -1,0 +1,16 @@
+﻿@model List<AspCoreViewImports.Models.Student>
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<h1>Contact</h1>
+
+@{
+    foreach (var item in Model)
+    {
+                <p>@item.id</p>
+                <p>@item.Name</p>
+                <p>@item.Gender</p>
+
+    }
+}
